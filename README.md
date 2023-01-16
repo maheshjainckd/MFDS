@@ -1,1 +1,1 @@
-# Mathematical Foundations for Data Science
+# Mathematical Foundations of Data Science
